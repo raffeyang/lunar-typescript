@@ -21,7 +21,7 @@ lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)�
     console.log(solar.getLunar().toFullString());
      
     // run
-    ts-node test.ts
+    npx ts-node test.ts
 
 输出结果：
 
